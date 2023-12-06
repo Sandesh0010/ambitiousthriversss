@@ -1,0 +1,15 @@
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\bin\Debug\hackathonproject.exe.config
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\bin\Debug\hackathonproject.exe
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\bin\Debug\hackathonproject.pdb
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.csproj.AssemblyReference.cache
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.Form1.resources
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.Properties.Resources.resources
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.csproj.GenerateResource.cache
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.csproj.CoreCompileInputs.cache
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.exe
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.pdb
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.Form2.resources
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.Quizcat.resources
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.General_Knowledge_Page_2.resources
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.sciencepage1.resources
+C:\Users\swast\source\repos\hackathonproject\hackathonproject\obj\Debug\hackathonproject.prev1.resources
